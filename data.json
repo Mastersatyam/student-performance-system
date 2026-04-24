@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Aman Singh",
+    "state": "Bihar",
+    "school": "ABC Public School",
+    "academics": { "math": 80, "science": 85, "english": 75 },
+    "sports": ["Cricket"],
+    "activities": ["Debate"]
+  },
+  {
+    "name": "Riya Sharma",
+    "state": "Delhi",
+    "school": "XYZ School",
+    "academics": { "math": 90, "science": 88, "english": 92 },
+    "sports": ["Badminton", "Tennis"],
+    "activities": ["Music", "Dance"]
+  }
+]
